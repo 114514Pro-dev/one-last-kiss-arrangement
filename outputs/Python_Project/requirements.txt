@@ -1,0 +1,6 @@
+numpy
+scipy
+soundfile
+music21
+imageio-ffmpeg
+pillow

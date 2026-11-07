@@ -1,0 +1,352 @@
+[
+  {
+    "path": "samples\\guzheng\\guzheng_m074_take004.wav",
+    "pitch": 74,
+    "cents": 8.613095839231732,
+    "source_seconds": 11.96578231292517,
+    "duration": 2.8006122448979593
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m072_take006.wav",
+    "pitch": 72,
+    "cents": 4.773685489850266,
+    "source_seconds": 17.24877551020408,
+    "duration": 1.7929024943310659
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m067_take008.wav",
+    "pitch": 67,
+    "cents": 3.5083324870740284,
+    "source_seconds": 21.92315192743764,
+    "duration": 2.346643990929705
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m067_take009.wav",
+    "pitch": 67,
+    "cents": 1.2152933220036743,
+    "source_seconds": 24.28278911564626,
+    "duration": 2.471360544217687
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m065_take011.wav",
+    "pitch": 65,
+    "cents": -1.538130864715015,
+    "source_seconds": 29.97485260770975,
+    "duration": 3.7783900226757368
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m062_take013.wav",
+    "pitch": 62,
+    "cents": 9.512442170255753,
+    "source_seconds": 38.20115646258503,
+    "duration": 2.8754421768707483
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m060_take015.wav",
+    "pitch": 60,
+    "cents": 15.372257626240327,
+    "source_seconds": 43.99299319727891,
+    "duration": 2.581111111111111
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m060_take018.wav",
+    "pitch": 60,
+    "cents": 18.31196223103362,
+    "source_seconds": 50.987097505668935,
+    "duration": 2.8405215419501135
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m057_take019.wav",
+    "pitch": 57,
+    "cents": 20.78386427644716,
+    "source_seconds": 53.84061224489796,
+    "duration": 5.359795918367347
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m057_take020.wav",
+    "pitch": 57,
+    "cents": 20.123716717434093,
+    "source_seconds": 59.21340136054422,
+    "duration": 4.910816326530612
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m056_take025.wav",
+    "pitch": 56,
+    "cents": -14.229498534967888,
+    "source_seconds": 69.21566893424037,
+    "duration": 0.7702267573696145
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m055_take027.wav",
+    "pitch": 55,
+    "cents": 9.839999442172598,
+    "source_seconds": 74.50863945578232,
+    "duration": 3.4391609977324262
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m055_take028.wav",
+    "pitch": 55,
+    "cents": 19.698382267586112,
+    "source_seconds": 77.96079365079365,
+    "duration": 2.925328798185941
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m053_take029.wav",
+    "pitch": 53,
+    "cents": 26.25665184963566,
+    "source_seconds": 80.89911564625851,
+    "duration": 2.7806575963718823
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m050_take032.wav",
+    "pitch": 50,
+    "cents": 26.49386862424734,
+    "source_seconds": 89.43471655328798,
+    "duration": 2.6659183673469387
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m048_take035.wav",
+    "pitch": 48,
+    "cents": 20.96562780741209,
+    "source_seconds": 96.2442403628118,
+    "duration": 4.396984126984127
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m045_take038.wav",
+    "pitch": 45,
+    "cents": 15.300042825104754,
+    "source_seconds": 104.01657596371882,
+    "duration": 2.9452834467120184
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m057_take041.wav",
+    "pitch": 57,
+    "cents": -11.537742903781378,
+    "source_seconds": 108.13721088435373,
+    "duration": 2.3117233560090704
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m043_take044.wav",
+    "pitch": 43,
+    "cents": -0.001352711863944478,
+    "source_seconds": 111.54945578231292,
+    "duration": 2.1121768707482995
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m041_take047.wav",
+    "pitch": 41,
+    "cents": 28.510821249433604,
+    "source_seconds": 117.21657596371882,
+    "duration": 5.8736281179138325
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m038_take099.wav",
+    "pitch": 38,
+    "cents": 34.79046069639651,
+    "source_seconds": 227.02201814058958,
+    "duration": 3.4990249433106575
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m062_take116.wav",
+    "pitch": 62,
+    "cents": 17.882300413357655,
+    "source_seconds": 252.63879818594106,
+    "duration": 0.9647845804988662
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m062_take117.wav",
+    "pitch": 62,
+    "cents": 15.539320076904062,
+    "source_seconds": 253.61657596371882,
+    "duration": 0.9498185941043084
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m062_take118.wav",
+    "pitch": 62,
+    "cents": 11.466769275024546,
+    "source_seconds": 254.57938775510203,
+    "duration": 4.406961451247166
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m067_take127.wav",
+    "pitch": 67,
+    "cents": 13.048183254333878,
+    "source_seconds": 268.557619047619,
+    "duration": 0.8051473922902495
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m067_take133.wav",
+    "pitch": 67,
+    "cents": 6.569657667387219,
+    "source_seconds": 272.21430839002267,
+    "duration": 4.09766439909297
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m069_take134.wav",
+    "pitch": 69,
+    "cents": 10.861684139204897,
+    "source_seconds": 276.32496598639455,
+    "duration": 0.9897278911564625
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m067_take137.wav",
+    "pitch": 67,
+    "cents": 0.6772068536790243,
+    "source_seconds": 278.5299546485261,
+    "duration": 1.069546485260771
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m062_take139.wav",
+    "pitch": 62,
+    "cents": 1.6425479317732083,
+    "source_seconds": 280.2709977324263,
+    "duration": 3.065011337868481
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m074_take141.wav",
+    "pitch": 74,
+    "cents": 17.837900117436334,
+    "source_seconds": 283.84786848072565,
+    "duration": 0.6554875283446712
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m074_take143.wav",
+    "pitch": 74,
+    "cents": 15.130195441042815,
+    "source_seconds": 285.01521541950115,
+    "duration": 0.7502721088435375
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m074_take144.wav",
+    "pitch": 74,
+    "cents": 11.811202831407286,
+    "source_seconds": 285.7784807256236,
+    "duration": 0.9647845804988662
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m074_take145.wav",
+    "pitch": 74,
+    "cents": 11.667993645858132,
+    "source_seconds": 286.75625850340134,
+    "duration": 0.924875283446712
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m074_take146.wav",
+    "pitch": 74,
+    "cents": 17.807697620736462,
+    "source_seconds": 287.69412698412697,
+    "duration": 0.6654648526077097
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m074_take148.wav",
+    "pitch": 74,
+    "cents": 17.74352310958136,
+    "source_seconds": 288.89639455782316,
+    "duration": 0.6604761904761904
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m067_take163.wav",
+    "pitch": 67,
+    "cents": 15.877036088333796,
+    "source_seconds": 306.86056689342405,
+    "duration": 1.6582086167800454
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m067_take166.wav",
+    "pitch": 67,
+    "cents": 13.773671430962509,
+    "source_seconds": 310.37757369614513,
+    "duration": 3.3493650793650795
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m038_take177.wav",
+    "pitch": 38,
+    "cents": 33.11627838909743,
+    "source_seconds": 325.882335600907,
+    "duration": 0.87
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m050_take206.wav",
+    "pitch": 50,
+    "cents": 11.628790668817857,
+    "source_seconds": 362.19480725623583,
+    "duration": 6.0
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m057_take209.wav",
+    "pitch": 57,
+    "cents": -22.15721829899877,
+    "source_seconds": 371.4487755102041,
+    "duration": 0.7702267573696145
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m057_take213.wav",
+    "pitch": 57,
+    "cents": 17.21027748262287,
+    "source_seconds": 374.37712018140587,
+    "duration": 0.8799773242630385
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m057_take215.wav",
+    "pitch": 57,
+    "cents": -3.6623388670690815,
+    "source_seconds": 375.7789342403628,
+    "duration": 0.6953968253968253
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m057_take222.wav",
+    "pitch": 57,
+    "cents": -7.1609429832399485,
+    "source_seconds": 380.9072789115646,
+    "duration": 0.9498185941043084
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m056_take225.wav",
+    "pitch": 56,
+    "cents": 20.653845625253098,
+    "source_seconds": 383.1471882086168,
+    "duration": 0.8600226757369615
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m055_take227.wav",
+    "pitch": 55,
+    "cents": 16.142676661151967,
+    "source_seconds": 384.5240589569161,
+    "duration": 0.9947165532879818
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m057_take254.wav",
+    "pitch": 57,
+    "cents": 23.18874367745636,
+    "source_seconds": 406.9630612244898,
+    "duration": 0.6604761904761904
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m057_take258.wav",
+    "pitch": 57,
+    "cents": 12.396013177491483,
+    "source_seconds": 409.7617006802721,
+    "duration": 0.6754421768707483
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m057_take259.wav",
+    "pitch": 57,
+    "cents": 4.369744223377836,
+    "source_seconds": 410.45013605442176,
+    "duration": 0.7652380952380953
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m057_take260.wav",
+    "pitch": 57,
+    "cents": 15.767129458540552,
+    "source_seconds": 411.2283673469388,
+    "duration": 3.0999319727891157
+  },
+  {
+    "path": "samples\\guzheng\\guzheng_m057_take264.wav",
+    "pitch": 57,
+    "cents": 14.383601802197887,
+    "source_seconds": 416.1022902494331,
+    "duration": 3.34437641723356
+  }
+]

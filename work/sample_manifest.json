@@ -1,0 +1,1757 @@
+[
+  [
+    "SalamanderGrandPiano",
+    "README.md",
+    4980
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/A0v11.flac",
+    2734680
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/A0v15.flac",
+    2740560
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/A0v3.flac",
+    2346995
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/A0v7.flac",
+    2764837
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/A1v11.flac",
+    2732379
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/A1v15.flac",
+    2823992
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/A1v3.flac",
+    2262291
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/A1v7.flac",
+    2668737
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/A2v11.flac",
+    1928332
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/A2v15.flac",
+    2049937
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/A2v3.flac",
+    1838734
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/A2v7.flac",
+    1903028
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/A3v11.flac",
+    1790713
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/A3v15.flac",
+    1874239
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/A3v3.flac",
+    1660396
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/A3v7.flac",
+    1813811
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/A4v11.flac",
+    1452468
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/A4v15.flac",
+    1531315
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/A4v3.flac",
+    1353378
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/A4v7.flac",
+    1395306
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/A5v11.flac",
+    1108296
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/A5v15.flac",
+    1126306
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/A5v3.flac",
+    698413
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/A5v7.flac",
+    1093287
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/A6v11.flac",
+    657585
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/A6v15.flac",
+    698766
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/A6v3.flac",
+    565397
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/A6v7.flac",
+    667567
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/A7v11.flac",
+    377168
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/A7v15.flac",
+    370376
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/A7v3.flac",
+    366359
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/A7v7.flac",
+    349834
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/C1v11.flac",
+    2534515
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/C1v15.flac",
+    2616594
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/C1v3.flac",
+    2472280
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/C1v7.flac",
+    2507952
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/C2v11.flac",
+    2596170
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/C2v15.flac",
+    2680349
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/C2v3.flac",
+    2252210
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/C2v7.flac",
+    2540876
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/C3v11.flac",
+    1756061
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/C3v15.flac",
+    1854312
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/C3v3.flac",
+    1689056
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/C3v7.flac",
+    1724174
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/C4v11.flac",
+    1818768
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/C4v15.flac",
+    1829283
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/C4v3.flac",
+    1697814
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/C4v7.flac",
+    1716540
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/C5v11.flac",
+    1464734
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/C5v15.flac",
+    1492303
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/C5v3.flac",
+    1378629
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/C5v7.flac",
+    1543329
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/C6v11.flac",
+    727868
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/C6v15.flac",
+    722505
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/C6v3.flac",
+    553119
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/C6v7.flac",
+    689877
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/C7v11.flac",
+    444551
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/C7v15.flac",
+    444280
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/C7v3.flac",
+    434222
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/C7v7.flac",
+    441141
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/C8v11.flac",
+    430355
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/C8v15.flac",
+    458197
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/C8v3.flac",
+    302459
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/C8v7.flac",
+    395305
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/D#1v11.flac",
+    2892784
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/D#1v15.flac",
+    2944808
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/D#1v3.flac",
+    2496013
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/D#1v7.flac",
+    2847777
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/D#2v11.flac",
+    2575005
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/D#2v15.flac",
+    2693272
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/D#2v3.flac",
+    2435017
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/D#2v7.flac",
+    2586193
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/D#3v11.flac",
+    1815803
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/D#3v15.flac",
+    1860531
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/D#3v3.flac",
+    1743106
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/D#3v7.flac",
+    1748888
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/D#4v11.flac",
+    1572307
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/D#4v15.flac",
+    1619221
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/D#4v3.flac",
+    1448930
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/D#4v7.flac",
+    1568599
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/D#5v11.flac",
+    1333643
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/D#5v15.flac",
+    1375399
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/D#5v3.flac",
+    1232031
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/D#5v7.flac",
+    1240910
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/D#6v11.flac",
+    810901
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/D#6v15.flac",
+    817807
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/D#6v3.flac",
+    749154
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/D#6v7.flac",
+    771589
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/D#7v11.flac",
+    515419
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/D#7v15.flac",
+    534846
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/D#7v3.flac",
+    490560
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/D#7v7.flac",
+    475024
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/F#1v11.flac",
+    2711519
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/F#1v15.flac",
+    2762913
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/F#1v3.flac",
+    2263896
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/F#1v7.flac",
+    2684060
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/F#2v11.flac",
+    2376880
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/F#2v15.flac",
+    2430966
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/F#2v3.flac",
+    2163309
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/F#2v7.flac",
+    2307655
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/F#3v11.flac",
+    1796864
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/F#3v15.flac",
+    1854286
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/F#3v3.flac",
+    1754406
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/F#3v7.flac",
+    1800780
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/F#4v11.flac",
+    1481344
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/F#4v15.flac",
+    1556619
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/F#4v3.flac",
+    1338739
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/F#4v7.flac",
+    1484679
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/F#5v11.flac",
+    1162182
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/F#5v15.flac",
+    1219482
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/F#5v3.flac",
+    1114230
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/F#5v7.flac",
+    1189998
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/F#6v11.flac",
+    679207
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/F#6v15.flac",
+    682072
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/F#6v3.flac",
+    596575
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/F#6v7.flac",
+    682900
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/F#7v11.flac",
+    592865
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/F#7v15.flac",
+    589555
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/F#7v3.flac",
+    551382
+  ],
+  [
+    "SalamanderGrandPiano",
+    "Samples/F#7v7.flac",
+    555659
+  ],
+  [
+    "VSCO-2-CE",
+    "LICENSE",
+    6555
+  ],
+  [
+    "VSCO-2-CE",
+    "README.md",
+    751
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Cello Section/susvib/susvib_A2_v1_1.wav",
+    2336738
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Cello Section/susvib/susvib_A2_v3_1.wav",
+    3082676
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Cello Section/susvib/susvib_B1_v1_1.wav",
+    2372492
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Cello Section/susvib/susvib_B1_v3_1.wav",
+    3372962
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Cello Section/susvib/susvib_B3_v1_1.wav",
+    1690082
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Cello Section/susvib/susvib_B3_v3_1.wav",
+    2865086
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Cello Section/susvib/susvib_C1_v1_1.wav",
+    2347376
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Cello Section/susvib/susvib_C1_v3_1.wav",
+    3335948
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Cello Section/susvib/susvib_C3_v1_1.wav",
+    2444174
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Cello Section/susvib/susvib_C3_v3_1.wav",
+    3019394
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Cello Section/susvib/susvib_D2_v1_1.wav",
+    2550956
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Cello Section/susvib/susvib_D2_v3_1.wav",
+    3291368
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Cello Section/susvib/susvib_D4_v1_1.wav",
+    2153228
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Cello Section/susvib/susvib_D4_v3_1.wav",
+    2801210
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Cello Section/susvib/susvib_E1_v1_1.wav",
+    2468348
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Cello Section/susvib/susvib_E1_v1_2.wav",
+    2439512
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Cello Section/susvib/susvib_E1_v3_1.wav",
+    3080426
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Cello Section/susvib/susvib_E3_v1_1.wav",
+    2456672
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Cello Section/susvib/susvib_E3_v3_1.wav",
+    3278270
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Cello Section/susvib/susvib_F2_v1_1.wav",
+    2186012
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Cello Section/susvib/susvib_F2_v3_1.wav",
+    3062696
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Cello Section/susvib/susvib_F4_v1_1.wav",
+    1922948
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Cello Section/susvib/susvib_F4_v3_1.wav",
+    2726342
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Cello Section/susvib/susvib_G1_v1_1.wav",
+    2161700
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Cello Section/susvib/susvib_G1_v3_1.wav",
+    3370496
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Cello Section/susvib/susvib_G3_v1_1.wav",
+    2431598
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Cello Section/susvib/susvib_G3_v3_1.wav",
+    3335768
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Harp/KSHarp_A2_mf.wav",
+    2007670
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Harp/KSHarp_A4_mf.wav",
+    2143618
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Harp/KSHarp_A6_mf.wav",
+    636870
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Harp/KSHarp_B1_mf.wav",
+    2284022
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Harp/KSHarp_B3_mf.wav",
+    1981130
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Harp/KSHarp_B5_mf.wav",
+    779058
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Harp/KSHarp_B6_mf.wav",
+    483966
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Harp/KSHarp_C3_mf.wav",
+    1586172
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Harp/KSHarp_C5_mf.wav",
+    1237142
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Harp/KSHarp_D2_mf.wav",
+    1741118
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Harp/KSHarp_D4_mf.wav",
+    1921690
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Harp/KSHarp_D6_mf.wav",
+    687750
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Harp/KSHarp_D7_f.wav",
+    396134
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Harp/KSHarp_E1_f.wav",
+    4001190
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Harp/KSHarp_E3_mf.wav",
+    2461138
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Harp/KSHarp_E5_mf.wav",
+    1171586
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Harp/KSHarp_F2_mf.wav",
+    3086590
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Harp/KSHarp_F4_mf.wav",
+    1913498
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Harp/KSHarp_F6_mf.wav",
+    413126
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Harp/KSHarp_F7_f.wav",
+    332482
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Harp/KSHarp_G1_mp.wav",
+    1189890
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Harp/KSHarp_G3_mf.wav",
+    1806874
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Harp/KSHarp_G5_mf.wav",
+    1049778
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Solo Contrabass/Pizz/BKCtbss_Pizz_A#0_v1_rr1.wav",
+    344328
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Solo Contrabass/Pizz/BKCtbss_Pizz_A#0_v1_rr2.wav",
+    326372
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Solo Contrabass/Pizz/BKCtbss_Pizz_A#0_v3_rr1.wav",
+    417360
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Solo Contrabass/Pizz/BKCtbss_Pizz_A#0_v3_rr2.wav",
+    458396
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Solo Contrabass/Pizz/BKCtbss_Pizz_A1_v1_rr1.wav",
+    623260
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Solo Contrabass/Pizz/BKCtbss_Pizz_A1_v1_rr2.wav",
+    485472
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Solo Contrabass/Pizz/BKCtbss_Pizz_B2_v1_rr1.wav",
+    417472
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Solo Contrabass/Pizz/BKCtbss_Pizz_B2_v1_rr2.wav",
+    332204
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Solo Contrabass/Pizz/BKCtbss_Pizz_C#2_v1_rr1.wav",
+    513824
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Solo Contrabass/Pizz/BKCtbss_Pizz_C#2_v1_rr2.wav",
+    498308
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Solo Contrabass/Pizz/BKCtbss_Pizz_C1_v1_rr1.wav",
+    270720
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Solo Contrabass/Pizz/BKCtbss_Pizz_C1_v1_rr2.wav",
+    405984
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Solo Contrabass/Pizz/BKCtbss_Pizz_C1_v3_rr1.wav",
+    400396
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Solo Contrabass/Pizz/BKCtbss_Pizz_C1_v3_rr2.wav",
+    384920
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Solo Contrabass/Pizz/BKCtbss_Pizz_D1_v1_rr1.wav",
+    856252
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Solo Contrabass/Pizz/BKCtbss_Pizz_D1_v1_rr2.wav",
+    1062672
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Solo Contrabass/Pizz/BKCtbss_Pizz_E0_v1_rr1.wav",
+    423964
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Solo Contrabass/Pizz/BKCtbss_Pizz_E0_v1_rr2.wav",
+    412812
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Solo Contrabass/Pizz/BKCtbss_Pizz_E0_v3_rr1.wav",
+    901744
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Solo Contrabass/Pizz/BKCtbss_Pizz_E0_v3_rr2.wav",
+    908620
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Solo Contrabass/Pizz/BKCtbss_Pizz_E1_v1_rr1.wav",
+    294356
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Solo Contrabass/Pizz/BKCtbss_Pizz_E1_v1_rr2.wav",
+    315292
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Solo Contrabass/Pizz/BKCtbss_Pizz_E1_v3_rr1.wav",
+    518876
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Solo Contrabass/Pizz/BKCtbss_Pizz_E1_v3_rr2.wav",
+    445256
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Solo Contrabass/Pizz/BKCtbss_Pizz_E2_v1_rr1.wav",
+    438040
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Solo Contrabass/Pizz/BKCtbss_Pizz_E2_v1_rr2.wav",
+    595380
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Solo Contrabass/Pizz/BKCtbss_Pizz_F#0_v1_rr1.wav",
+    256360
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Solo Contrabass/Pizz/BKCtbss_Pizz_F#0_v1_rr2.wav",
+    297240
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Solo Contrabass/Pizz/BKCtbss_Pizz_F#0_v3_rr1.wav",
+    828940
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Solo Contrabass/Pizz/BKCtbss_Pizz_F#0_v3_rr2.wav",
+    910664
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Solo Contrabass/Pizz/BKCtbss_Pizz_F#1_v1_rr1.wav",
+    868632
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Solo Contrabass/Pizz/BKCtbss_Pizz_F#1_v1_rr2.wav",
+    1036836
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Solo Contrabass/Pizz/BKCtbss_Pizz_G#1_v1_rr1.wav",
+    601752
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Solo Contrabass/Pizz/BKCtbss_Pizz_G#1_v1_rr2.wav",
+    537212
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Solo Contrabass/Pizz/BKCtbss_Pizz_G#2_v1_rr1.wav",
+    376048
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Solo Contrabass/Pizz/BKCtbss_Pizz_G#2_v1_rr2.wav",
+    273224
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Solo Contrabass/Pizz/BKCtbss_Pizz_G0_v1_rr1.wav",
+    169640
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Solo Contrabass/Pizz/BKCtbss_Pizz_G0_v1_rr2.wav",
+    240624
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Solo Contrabass/Pizz/BKCtbss_Pizz_G0_v3_rr1.wav",
+    636880
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Solo Contrabass/Pizz/BKCtbss_Pizz_G0_v3_rr2.wav",
+    713924
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Violin Section/susVib/VlnEns_susVib_A2_v1.wav",
+    1979216
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Violin Section/susVib/VlnEns_susVib_A2_v2.wav",
+    2231504
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Violin Section/susVib/VlnEns_susVib_A3_v1.wav",
+    1890316
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Violin Section/susVib/VlnEns_susVib_A3_v2.wav",
+    1671704
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Violin Section/susVib/VlnEns_susVib_B2_v1.wav",
+    2314360
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Violin Section/susVib/VlnEns_susVib_B2_v2.wav",
+    2373380
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Violin Section/susVib/VlnEns_susVib_B4_v1.wav",
+    2056964
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Violin Section/susVib/VlnEns_susVib_B4_v2.wav",
+    1923744
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Violin Section/susVib/VlnEns_susVib_C4_v1.wav",
+    2063320
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Violin Section/susVib/VlnEns_susVib_C4_v2.wav",
+    2017512
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Violin Section/susVib/VlnEns_susVib_D3_v1.wav",
+    2061808
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Violin Section/susVib/VlnEns_susVib_D3_v2.wav",
+    2457908
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Violin Section/susVib/VlnEns_susVib_D5_v1.wav",
+    2116352
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Violin Section/susVib/VlnEns_susVib_D5_v2.wav",
+    1976276
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Violin Section/susVib/VlnEns_susVib_E4_v1.wav",
+    2315540
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Violin Section/susVib/VlnEns_susVib_E4_v2.wav",
+    1702620
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Violin Section/susVib/VlnEns_susVib_F#3_v1.wav",
+    1585612
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Violin Section/susVib/VlnEns_susVib_F#3_v2.wav",
+    1720800
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Violin Section/susVib/VlnEns_susVib_G2_v1.wav",
+    2341712
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Violin Section/susVib/VlnEns_susVib_G2_v2.wav",
+    2681324
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Violin Section/susVib/VlnEns_susVib_G4_v1.wav",
+    2330236
+  ],
+  [
+    "VSCO-2-CE",
+    "Strings/Violin Section/susVib/VlnEns_susVib_G4_v2.wav",
+    2150136
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/bass/bdrum2_pp_1.wav",
+    925666
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/bass/bdrum2_pp_2.wav",
+    995524
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/bass/bdrum2_ppp_1.wav",
+    611302
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/bass/bdrum2_ppp_2.wav",
+    855808
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/bass/bdrum3_fff_1.wav",
+    1938610
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/bass/bdrum3_mp_1.wav",
+    1807624
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/bass/bdrum3_p_1.wav",
+    1947340
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/bass/bdrum3_ppp_1.wav",
+    1755232
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/bass/bdrum_f_1.wav",
+    2275664
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/bass/bdrum_f_2.wav",
+    1921070
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/bass/bdrum_ff_1.wav",
+    1763962
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/bass/bdrum_fff_1.wav",
+    1991002
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/bass/bdrum_fff_2.wav",
+    2104522
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/bass/bdrum_mp_1.wav",
+    1711570
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/bass/bdrum_mp_2.wav",
+    1475800
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/bass/bdrum_muted_ff_1.wav",
+    785950
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/bass/bdrum_muted_fff_1.wav",
+    934396
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/bass/bdrum_muted_fff_2.wav",
+    1170166
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/bass/bdrum_muted_mf_1.wav",
+    768484
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/bass/bdrum_muted_mp_1.wav",
+    829612
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/bass/bdrum_muted_mp_2.wav",
+    593836
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/bass/bdrum_muted_pp_1.wav",
+    262012
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/bass/bdrum_muted_pp_2.wav",
+    165958
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/bass/bdrum_muted_pp_3.wav",
+    183424
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/bass/bdrum_muted_ppp_1.wav",
+    227086
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/bass/bdrum_muted_ppp_2.wav",
+    148492
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/bass/bdrum_p_1.wav",
+    1292422
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/bass/bdrum_pp_1.wav",
+    1309882
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/bass/bdrum_pp_2.wav",
+    1344814
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/bass/bdrum_ppp_1.wav",
+    838348
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/bass/bdrum_ppp_2.wav",
+    1021720
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/bass/bdrum_ppp_3.wav",
+    1257496
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/bass/bdrum_roll-quietest.wav",
+    3676330
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/bass/bdrum_roll1.wav",
+    2689582
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/bass/bdrum_roll_long1.wav",
+    6042772
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/bass/bdrum_roll_quieter.wav",
+    7221628
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/bass/bdrum_roll_short_1.wav",
+    1798894
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/bass/bdrum_roll_short_2.wav",
+    1929880
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/bass/bdrum_special_sidehit.wav",
+    227086
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/snare/drum1/snare1_click.wav",
+    74248
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/snare/drum1/snare1_click2.wav",
+    74254
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/snare/drum1/snare1_click3.wav",
+    77476
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/snare/drum1/snare1_click4.wav",
+    58120
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/snare/drum1/snare1_f_1.wav",
+    193630
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/snare/drum1/snare1_f_2.wav",
+    183952
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/snare/drum1/snare1_f_3.wav",
+    148462
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/snare/drum1/snare1_ff_1.wav",
+    154912
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/snare/drum1/snare1_ff_2.wav",
+    148462
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/snare/drum1/snare1_fff_1.wav",
+    183946
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/snare/drum1/snare1_fff_2.wav",
+    187174
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/snare/drum1/snare1_mp_1.wav",
+    135556
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/snare/drum1/snare1_mp_2.wav",
+    116194
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/snare/drum1/snare1_mp_snare.wav",
+    129100
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/snare/drum1/snare1_mp_snare2.wav",
+    129106
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/snare/drum1/snare1_nosnare_f_2.wav",
+    138778
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/snare/drum1/snare1_nosnare_f_3.wav",
+    135550
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/snare/drum1/snare1_nosnare_ff_1.wav",
+    148462
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/snare/drum1/snare1_nosnare_fff_1.wav",
+    135556
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/snare/drum1/snare1_nosnare_fff_2.wav",
+    206536
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/snare/drum1/snare1_nosnare_fff_3.wav",
+    135556
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/snare/drum1/snare1_nosnare_mf_1.wav",
+    132328
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/snare/drum1/snare1_nosnare_mf_2.wav",
+    122644
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/snare/drum1/snare1_nosnare_mp_1.wav",
+    119422
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/snare/drum1/snare1_nosnare_mp_2.wav",
+    125878
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/snare/drum1/snare1_nosnare_pp_1.wav",
+    122650
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/snare/drum1/snare1_nosnare_ppp_1.wav",
+    103288
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/snare/drum1/snare1_nosnare_ppp_2.wav",
+    87160
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/snare/drum1/snare1_nosnare_ppp_3.wav",
+    161362
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/snare/drum1/snare1_p_1.wav",
+    151690
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/snare/drum1/snare1_pp_1.wav",
+    106516
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/snare/drum1/snare1_ppp_1.wav",
+    133402
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/snare/drum1/snare1_ppp_2.wav",
+    67804
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/snare/drum1/snare1_ppp_3.wav",
+    67804
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/snare/drum1/snare1_pppp_1.wav",
+    35536
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/snare/drum1/snare1_pppp_2.wav",
+    45214
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/snare/drum1/snare1_rim_fff_1.wav",
+    293644
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/snare/drum1/snare1_rimshot_f.wav",
+    151684
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/snare/drum1/snare1_rimshot_fff_1.wav",
+    125872
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/drums/snare/drum1/snare1_rimshot_mf.wav",
+    138778
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_FX_scrape_1.wav",
+    853732
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_FX_scrape_2.wav",
+    907936
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_FX_scrape_3.wav",
+    1002790
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_FX_scrape_continuous.wav",
+    6626284
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_FX_scrape_rapid.wav",
+    1300906
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_hit_hardmall_f.wav",
+    3577402
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_hit_hardmall_fff.wav",
+    2520454
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_hit_hardmall_mf.wav",
+    3929716
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_hit_metal_1.wav",
+    840184
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_hit_metal_2_f.wav",
+    1422862
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_hit_metal_2_ff.wav",
+    1680322
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_hit_metal_2_ff_2.wav",
+    1504162
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_hit_metal_2_fff.wav",
+    1951330
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_hit_metal_2_mf.wav",
+    1084090
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_hit_softmall_f.wav",
+    1490614
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_hit_softmall_ff.wav",
+    4729204
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_hit_softmall_mp.wav",
+    4661452
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_hit_softmall_p.wav",
+    1504156
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_hit_softmall_roll1.wav",
+    2127484
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_hit_softmall_roll2_cresc.wav",
+    2547556
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_hit_softmall_roll3_ff.wav",
+    4390438
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_hit_softmall_roll4_fff_long.wav",
+    4214278
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_hit_softmall_roll5_long_p.wav",
+    5840350
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_hit_woodmall_f.wav",
+    1951330
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_hit_woodmall_mf.wav",
+    1924234
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_hit_woodmall_mp.wav",
+    2628862
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_hit_woodmall_p.wav",
+    1897126
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_hit_woodmall_roll_cresc.wav",
+    2113936
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_hit_woodmall_roll_fx.wav",
+    1829374
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/varWood/Camo's Shaker/shake1.wav",
+    39210
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/varWood/Camo's Shaker/shake2.wav",
+    40534
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/varWood/Camo's Shaker/shake3.wav",
+    51852
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/varWood/Camo's Shaker/shake4.wav",
+    35846
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/varWood/Camo's Shaker/shake5.wav",
+    35326
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/varWood/Camo's Shaker/shake6.wav",
+    55446
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/varWood/Camo's Shaker/shake7.wav",
+    48510
+  ],
+  [
+    "VSCO-2-CE",
+    "VSCO 1 Percussion/varWood/Camo's Shaker/shake8.wav",
+    35114
+  ]
+]

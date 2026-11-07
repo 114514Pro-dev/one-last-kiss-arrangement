@@ -1,0 +1,50 @@
+[
+  {
+    "path": "Idiophones/Struck Idiophones/Gong 1/gong_mf.wav",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "6e90170966e0955ff362264468e4e8db3f921837",
+    "size": 5998418,
+    "url": "https://api.github.com/repos/sgossner/VCSL/git/blobs/6e90170966e0955ff362264468e4e8db3f921837"
+  },
+  {
+    "path": "Idiophones/Struck Idiophones/Gong 1/gong_p.wav",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "f0cb216bfd67097784a19e303c0ae48e45eea58b",
+    "size": 5190066,
+    "url": "https://api.github.com/repos/sgossner/VCSL/git/blobs/f0cb216bfd67097784a19e303c0ae48e45eea58b"
+  },
+  {
+    "path": "Idiophones/Struck Idiophones/Woodblock/wood_click3_vl1.wav",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "0df4f555f624d91e5fb6841af9e72123ab859218",
+    "size": 186874,
+    "url": "https://api.github.com/repos/sgossner/VCSL/git/blobs/0df4f555f624d91e5fb6841af9e72123ab859218"
+  },
+  {
+    "path": "Idiophones/Struck Idiophones/Woodblock/wood_click3_vl2.wav",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "79a388f22dc8241f6e9e0c98937a83bfa1f80658",
+    "size": 244570,
+    "url": "https://api.github.com/repos/sgossner/VCSL/git/blobs/79a388f22dc8241f6e9e0c98937a83bfa1f80658"
+  },
+  {
+    "path": "Idiophones/Struck Idiophones/Woodblock/wood_click_f_rr1.wav",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "ee846604e1c6850582d6aad3d4cd9983e1c73d49",
+    "size": 497338,
+    "url": "https://api.github.com/repos/sgossner/VCSL/git/blobs/ee846604e1c6850582d6aad3d4cd9983e1c73d49"
+  },
+  {
+    "path": "Idiophones/Struck Idiophones/Woodblock/wood_click_f_rr2.wav",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "25739527f54e1a2f1bea670cdf3eece04f414946",
+    "size": 516568,
+    "url": "https://api.github.com/repos/sgossner/VCSL/git/blobs/25739527f54e1a2f1bea670cdf3eece04f414946"
+  }
+]

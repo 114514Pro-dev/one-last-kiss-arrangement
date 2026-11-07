@@ -1,0 +1,4 @@
+numpy
+scipy
+soundfile
+imageio-ffmpeg

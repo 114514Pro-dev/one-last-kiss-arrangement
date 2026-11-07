@@ -1,0 +1,178 @@
+[
+  {
+    "path": "samples\\suona\\suona_commons_00_81.wav",
+    "pitch": 81.05929309148016,
+    "source": "suona_commons.ogg",
+    "start": 1.31,
+    "duration": 0.34,
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "path": "samples\\suona\\suona_commons_01_86.wav",
+    "pitch": 86.09570580409027,
+    "source": "suona_commons.ogg",
+    "start": 1.76,
+    "duration": 0.39,
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "path": "samples\\suona\\suona_commons_02_81.wav",
+    "pitch": 81.21270171470132,
+    "source": "suona_commons.ogg",
+    "start": 2.86,
+    "duration": 0.34,
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "path": "samples\\suona\\suona_commons_03_83.wav",
+    "pitch": 82.93696447146674,
+    "source": "suona_commons.ogg",
+    "start": 3.56,
+    "duration": 0.29,
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "path": "samples\\suona\\suona_commons_04_76.wav",
+    "pitch": 76.04029510660067,
+    "source": "suona_commons.ogg",
+    "start": 4.26,
+    "duration": 0.29,
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "path": "samples\\suona\\suona_commons_05_81.wav",
+    "pitch": 81.18229261050325,
+    "source": "suona_commons.ogg",
+    "start": 7.26,
+    "duration": 0.365,
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "path": "samples\\suona\\suona_commons_06_86.wav",
+    "pitch": 86.27484285355315,
+    "source": "suona_commons.ogg",
+    "start": 7.71,
+    "duration": 0.415,
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "path": "samples\\suona\\suona_commons_07_81.wav",
+    "pitch": 81.19953326703316,
+    "source": "suona_commons.ogg",
+    "start": 8.735,
+    "duration": 0.515,
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "path": "samples\\suona\\suona_commons_08_88.wav",
+    "pitch": 88.29851033447724,
+    "source": "suona_commons.ogg",
+    "start": 9.809979166666666,
+    "duration": 0.29002083333333334,
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "path": "samples\\suona\\suona_commons_09_88.wav",
+    "pitch": 88.19136874451789,
+    "source": "suona_commons.ogg",
+    "start": 10.135,
+    "duration": 0.4149791666666667,
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "path": "samples\\suona\\suona_commons_10_86.wav",
+    "pitch": 85.67965835122436,
+    "source": "suona_commons.ogg",
+    "start": 10.584979166666667,
+    "duration": 0.3400208333333333,
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "path": "samples\\suona\\suona_commons_11_88.wav",
+    "pitch": 88.24299523238169,
+    "source": "suona_commons.ogg",
+    "start": 10.985,
+    "duration": 0.79,
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "path": "samples\\suona\\suona_commons_12_87.wav",
+    "pitch": 86.58004793518549,
+    "source": "suona_commons.ogg",
+    "start": 12.059979166666666,
+    "duration": 0.49002083333333335,
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "path": "samples\\suona\\suona_commons_13_85.wav",
+    "pitch": 84.99834368994698,
+    "source": "suona_commons.ogg",
+    "start": 12.66,
+    "duration": 0.29,
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "path": "samples\\suona\\suona_commons_14_85.wav",
+    "pitch": 85.10955426436524,
+    "source": "suona_commons.ogg",
+    "start": 13.385,
+    "duration": 0.29,
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "path": "samples\\suona\\suona_commons_15_88.wav",
+    "pitch": 88.41607357765477,
+    "source": "suona_commons.ogg",
+    "start": 14.66,
+    "duration": 0.44,
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "path": "samples\\suona\\suona_commons_16_88.wav",
+    "pitch": 88.47012597629362,
+    "source": "suona_commons.ogg",
+    "start": 15.61,
+    "duration": 0.465,
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "path": "samples\\suona\\suona_commons_17_85.wav",
+    "pitch": 84.71501206279663,
+    "source": "suona_commons.ogg",
+    "start": 16.43497916666667,
+    "duration": 1.3150208333333333,
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "path": "samples\\suona\\suona_commons_18_86.wav",
+    "pitch": 86.47708732464588,
+    "source": "suona_commons.ogg",
+    "start": 18.68497916666667,
+    "duration": 0.3400208333333333,
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "path": "samples\\suona\\suona_commons_19_80.wav",
+    "pitch": 79.7631403252827,
+    "source": "suona_commons.ogg",
+    "start": 20.05997916666667,
+    "duration": 0.31502083333333336,
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "path": "samples\\suona\\suona_commons_20_81.wav",
+    "pitch": 81.32136458799343,
+    "source": "suona_commons.ogg",
+    "start": 20.46,
+    "duration": 0.59,
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "path": "samples\\suona\\suona_cc0_00_88.wav",
+    "pitch": 88.26595947453872,
+    "source": "suona_cc0.mp3",
+    "start": 0.0,
+    "duration": 3.348526077097506,
+    "license": "CC0"
+  }
+]
